@@ -5,6 +5,7 @@ Created on Mon May 18 09:41:47 2020
 @author: Delta
 """
 
+#turn on USB debugging in the android device and connect it to the pc 
 
 
 
