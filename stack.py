@@ -4,7 +4,7 @@ Created on Mon May 18 09:41:47 2020
 
 @author: Delta
 """
-
+#if you dont have downloaded adb already, download it from the following link: https://developer.android.com/studio/releases/platform-tools
 #turn on USB debugging in the android device and connect it to the pc 
 
 
